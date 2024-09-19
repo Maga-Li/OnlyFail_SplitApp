@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc91c7469a41064eb48deaa14ca815b4756669b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c147494db60118fa91829c2e8a3accbf7f6635")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
